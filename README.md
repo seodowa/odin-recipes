@@ -1,0 +1,2 @@
+# Project: Recipes
+This is the first project from "The Odin Project." It is a website which showcases various recipes. This project tests my acquired knowledge on HTML after a few lessons from The Odin Project.
